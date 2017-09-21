@@ -1,0 +1,54 @@
+body {
+    background-color: yellow;
+}
+
+img {
+    max-height: 150px;
+}
+
+form,
+.showBtn {
+    background-color: #474747;
+    color: white;
+}
+
+form {
+    padding: 10px;
+}
+
+#newShowInput {
+    color: purple;
+}
+
+.ratingStyle {
+    color: white;
+    background-color: black;
+}
+
+#addShow {
+    background-color: white;
+    color: #CA6924;
+    border: none;
+}
+
+input {
+    margin: 10px;
+}
+
+button {
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
+#TVButtons {
+    margin: 20px;
+}
+
+.showBtn {
+    padding: 6px;
+    margin: 3px;
+}
+
+#giphyLogo {
+    margin: 20px;
+}
